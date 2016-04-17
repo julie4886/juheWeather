@@ -210,9 +210,8 @@
                         android:id="@+id/icon_fifty"
                         style="@style/iconStyle"
                         android:src="@drawable/d00" />
-                    
-                    
                 </LinearLayout>
+
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -244,7 +243,6 @@
                         style="@style/viewStyle"
                         android:text="上午7時" />
                 </LinearLayout>
-                
 
                 <View
                     android:layout_width="fill_parent"

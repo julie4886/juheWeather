@@ -86,7 +86,7 @@ public class CityActivity extends Activity {
 	private void getJsonData() {
 		Parameters params = new Parameters();
 		params.add("dtype", "json");
-		params.add("key", "653697a4fe8394f31d78ade53168e0a0");
+		params.add("key", "b3e87e4f0be7ba7fff1aa1d572341ced");
 		/**
 		 * 请求的方法 参数: 第一个参数 当前请求的context 第二个参数 接口id 第三个参数 接口请求的json 第四个参数 接口请求的方式
 		 * 第五个参数 接口请求的参数,键值对com.thinkland.sdk.android.Parameters类型; 第六个参数
